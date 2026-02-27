@@ -1,5 +1,5 @@
 # 🧠 NER для IT-резюме (Russian IT Resumes NER)  
-[![HuggingFace](https://huggingface.co/spaces/Zirok05/NER_Russian_IT_Resumes)  
+[![Open in HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-Live%20Demo-yellow)](https://huggingface.co/spaces/Zirok05/NER_Russian_IT_Resumes)  
 
 ## 📋 Описание проекта  
 
