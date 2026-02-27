@@ -1,0 +1,10 @@
+<View>
+  <Labels name="label" toName="text">
+    
+    
+    
+    
+  <Label value="SKILLS" background="#FFA39E"/><Label value="TECHNOLOGIES" background="#9a244f"/><Label value="METRICS" background="#FFC069"/><Label value="COMPANIES" background="#AD8B00"/><Label value="POSITIONS" background="#D3F261"/><Label value="EDUCATION" background="#389E0D"/><Label value="DEGREE" background="#5CDBD3"/><Label value="LOCATION" background="#096DD9"/><Label value="CONTACTS" background="#ADC6FF"/><Label value="TIME" background="#9254DE"/><Label value="RESPONSIBILITIES" background="#F759AB"/><Label value="LINKS" background="#ff4013"/><Label value="NAME" background="#263e0f"/><Label value="PROJECTS" background="#006d8f"/><Label value="ACHIEVEMENTS" background="#00364a"/></Labels>
+
+  <Text name="text" value="$text" valueType="text"/>
+</View>
