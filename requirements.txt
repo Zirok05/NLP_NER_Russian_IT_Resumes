@@ -1,0 +1,7 @@
+streamlit
+pandas
+pathlib
+transformers
+torch
+safetensors
+accelerate
